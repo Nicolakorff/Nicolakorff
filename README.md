@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Nicolakorff
 - 👀 I’m interested in life
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on nothig, because I'm yet to scared to do anything.
+- 💞️ I’m looking to collaborate in anything you can offer!
 - 📫 How to reach me: just say Hi!
 - 😄 Pronouns: she, I guess
 - ⚡ Fun fact: I love games
