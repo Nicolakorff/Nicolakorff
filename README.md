@@ -1,3 +1,6 @@
+
+<img width="427" alt="rino" src="https://github.com/user-attachments/assets/0a0e3d6c-982a-405c-88b8-74b7bff6cab6">
+
 - 👋 Hi, I’m @Nicolakorff
 - 👀 I’m interested in life
 - 🌱 I’m currently learning ML
