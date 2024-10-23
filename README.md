@@ -1,4 +1,4 @@
-![img084b](https://github.com/user-attachments/assets/0efd70f1-aabd-4cb1-b02a-99ed602fbad4)
+![71D2C1DC-B5DD-4F25-93D7-006E9D277B8B_4_5005_c](https://github.com/user-attachments/assets/c0a99ac3-74e0-4073-9de4-2e4912b60ff9)
 - 👋 Hi, I’m @Nicolakorff
 - 👀 I’m interested in life
 - 🌱 I’m currently learning ML
