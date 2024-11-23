@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate in anything you can offer!
 - 📫 How to reach me: just say Hi! -> nicolavonkorff@gmail.com
 - ⚡ Fun fact: I love games, yoga and nature.
+- 🤖 My website: https://nicolavonkorff.wixsite.com/nicolakorff
 
 <!---
 Nicolakorff/Nicolakorff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
