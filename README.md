@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate in anything you can offer!
 - 📫 How to reach me: just say Hi! -> nicolavonkorff@gmail.com
 - 🌱 I’m vegetarian
-- ⚡ Fun fact: I love languages (at the moment obsesed with Python), games, yoga, nature and art.
+- ⚡ Fun fact: I love languages (at the moment obsessed with Python), games, yoga, nature and art.
 - 🤖 My website: https://nicolavonkorff.wixsite.com/nicolakorff
 
 <!---
