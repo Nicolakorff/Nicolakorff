@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Nicolakorff
 - ♟️ I’m interested in life and particulary right know looking for a job in Data Analysis, Machine Learning or AI Engineering.
 - 🔬 I’m currently learning AI Generative Engineering in a IBM course
-- 🚀 and will be doing a Masters Degree in LLM and Computational Linguistics next year
+- 🚀 also a Data Analytics Bootcamp in IT Academy and a Masters Degree in LLM and Computational Linguistics at the Universidad de la Rioja
 - 💞️ I’m looking to collaborate in anything you can offer!
 - 📫 How to reach me: just say Hi! -> nicolavonkorff@gmail.com
 - 🌱 I’m vegetarian
