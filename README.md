@@ -3,7 +3,7 @@
 - ♟️ I’m interested in Data Analysis, Machine Learning, NLP and Computational Linguisitcs.
 - 🔬 I’m currently doing a Data Analytics Bootcamp in IT Academy.
 - 🚀 Also a Masters Degree in LLM and Computational Linguistics at the Universidad de la Rioja.
-- 🤖 And a AI Generative Engineering in a IBM course
+- 🤖 And an AI Generative Engineering course with IBM.
 - 💞️ I’m open to all kinds of collaborations!
 - 📫 How to reach me: just say Hi! -> nicolavonkorff@gmail.com
 - 🌱 I’m vegetarian
