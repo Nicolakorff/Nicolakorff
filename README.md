@@ -7,9 +7,9 @@
 - I’m open to all kinds of collaborations! -> my fun_cv ;): http://127.0.0.1:8050/
 - You can find my real cv in my LinkedIn: www.linkedin.com/in/nicolakorff
 - How to reach me: just say Hi! -> nicolavonkorff@gmail.com
-- I’m vegetarian
-- Fun facts: I love languages (at the moment obsessed with Python), games (all kinds of games), yoga, martial arts, nature and art.
-- My website: https://nicolavonkorff.wixsite.com/nicolakorff
+- I am vegetarian.
+- Fun facts: I love languages (at the moment obsessed with Python), games (all kinds of games), philosophy, science fiction, yoga, martial arts, nature, fantasy and art.
+- Also, my website: https://nicolavonkorff.wixsite.com/nicolakorff
 
 
 <!---
