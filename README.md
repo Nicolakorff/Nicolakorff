@@ -4,8 +4,8 @@
 - I’m currently doing a Data Analytics Bootcamp in IT Academy.
 - Also a Masters Degree in LLM and Computational Linguistics at the Universidad de la Rioja.
 - And an AI Generative Engineering course with IBM.
-- I’m open to all kinds of collaborations! -> my fun_cv ;): http://127.0.0.1:8050/
-- You can find my real cv in my LinkedIn: www.linkedin.com/in/nicolakorff
+- I’m open to all kinds of collaborations!
+- Where to find me: www.linkedin.com/in/nicolakorff
 - How to reach me: just say Hi! -> nicolavonkorff@gmail.com
 - I am vegetarian.
 - Fun facts: I love languages (at the moment obsessed with Python), games (all kinds of games), philosophy, science fiction, yoga, martial arts, nature, fantasy and art.
